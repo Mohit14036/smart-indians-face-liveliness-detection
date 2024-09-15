@@ -1,4 +1,4 @@
-# smart-indians-face-liveliness-detection
+# smart-indians-plant-disease-detection
 ## Team Members
 
 
